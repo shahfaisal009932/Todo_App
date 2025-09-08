@@ -1,16 +1,27 @@
-# Todo_App
+A simple and elegant ToDo application built with Flutter, featuring:
 
-A new Flutter project.
+Local database storage using Sqflite
 
-## Getting Started
+Beautiful & user-friendly UI design
 
-This project is a starting point for a Flutter application.
+Add, update, and delete tasks easily
 
-A few resources to get you started if this is your first Flutter project:
+Persistent storage (tasks remain saved even after app restart)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🚀 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Add Tasks – Quickly add new tasks with a title and description
+✅ Update Tasks – Edit tasks whenever needed
+✅ Delete Tasks – Remove completed/unwanted tasks
+✅ Local Database – Data saved using SQLite (Sqflite plugin)
+✅ Clean UI – Modern and intuitive user interface
+
+🛠️ Tech Stack
+
+Framework: Flutter
+
+Language: Dart
+
+Database: Sqflite (SQLite)
+
+State Management: (default setState / Provider if you used)
