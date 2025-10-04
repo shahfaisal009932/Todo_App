@@ -24,4 +24,4 @@ Language: Dart
 
 Database: Sqflite (SQLite)
 
-State Management: (default setState / Provider if you used)
+State Management: (default setState)
